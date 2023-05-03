@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUserAnswer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UserAnswer>
+    <Question>2 + 3 * 2 = </Question>
+    <Answer>
+      <string>12</string>
+      <string>10</string>
+      <string>8</string>
+      <string>6</string>
+    </Answer>
+    <IsSelected>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>true</boolean>
+      <boolean>false</boolean>
+    </IsSelected>
+  </UserAnswer>
+  <UserAnswer>
+    <Question>3^2 - 2^2 =</Question>
+    <Answer>
+      <string>1</string>
+      <string>14</string>
+      <string>10</string>
+      <string>5</string>
+    </Answer>
+    <IsSelected>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>true</boolean>
+    </IsSelected>
+  </UserAnswer>
+  <UserAnswer>
+    <Question>( 3 + 4 ) * 2 =</Question>
+    <Answer>
+      <string>14</string>
+      <string>13</string>
+      <string>9</string>
+      <string>16</string>
+    </Answer>
+    <IsSelected>
+      <boolean>true</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+    </IsSelected>
+  </UserAnswer>
+  <UserAnswer>
+    <Question />
+    <Answer>
+      <string>4</string>
+      <string>1.5</string>
+      <string>3</string>
+      <string>1</string>
+    </Answer>
+    <IsSelected>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+    </IsSelected>
+  </UserAnswer>
+</ArrayOfUserAnswer>

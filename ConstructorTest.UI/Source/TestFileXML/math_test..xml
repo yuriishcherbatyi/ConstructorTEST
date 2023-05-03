@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Test xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <id>1dc7a6aa-e987-45af-96f5-2dcb87bd24af</id>
+  <Author>Admin</Author>
+  <Title>Math</Title>
+  <InfoTestTaker>qwerty</InfoTestTaker>
+  <TestName />
+  <CreatedName />
+  <Description>qwerty</Description>
+  <MaxPoint>8</MaxPoint>
+  <CountQuestion>4</CountQuestion>
+  <Percent>75</Percent>
+  <listTests>
+    <ListTest>
+      <Question>2 + 3 * 2 = </Question>
+      <Answers>
+        <string>12</string>
+        <string>10</string>
+        <string>8</string>
+        <string>6</string>
+      </Answers>
+      <CorectAnswers>
+        <string>8</string>
+      </CorectAnswers>
+      <Point>2</Point>
+    </ListTest>
+    <ListTest>
+      <Question>3^2 - 2^2 =</Question>
+      <Answers>
+        <string>1</string>
+        <string>14</string>
+        <string>10</string>
+        <string>5</string>
+      </Answers>
+      <CorectAnswers>
+        <string>5</string>
+      </CorectAnswers>
+      <Point>2</Point>
+    </ListTest>
+    <ListTest>
+      <Question>( 3 + 4 ) * 2 =</Question>
+      <Answers>
+        <string>14</string>
+        <string>13</string>
+        <string>9</string>
+        <string>16</string>
+      </Answers>
+      <CorectAnswers>
+        <string>14</string>
+      </CorectAnswers>
+      <Point>2</Point>
+    </ListTest>
+    <ListTest>
+      <Question />
+      <Answers>
+        <string>4</string>
+        <string>1.5</string>
+        <string>3</string>
+        <string>1</string>
+      </Answers>
+      <CorectAnswers>
+        <string>1.5</string>
+      </CorectAnswers>
+      <Photo>..\..\..\Source\Picture\PictureTest\TEST..png</Photo>
+      <Point>2</Point>
+    </ListTest>
+  </listTests>
+</Test>
